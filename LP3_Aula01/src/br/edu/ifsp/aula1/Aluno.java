@@ -7,7 +7,7 @@ public class Aluno {
     final private Disciplina disciplina;
            
     public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 	    Aluno aluno1 = new Aluno("SP3013251", "Katia J Tartari"); 
 	    
 	    aluno1.disciplina.setNomeDisciplina("LP3A5 - Linguagem de Programação III");
