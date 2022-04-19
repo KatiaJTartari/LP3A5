@@ -1,6 +1,7 @@
 # LP3A5 
 
 ### REPOSITÓRIO PARA EXERCÍCIOS E EXEMPLOS DA DISCIPLINA DE LINGUAGEM DE PROGRAMAÇÃO III
+### Repositório para exercícios e exemplos da disciplina de Linguagem de Programação III
 
 ## LP3A5_Aula01
 Desenvolvimento de uma aplicação em **Java** com conceitos básicos de orientação a objetos, no qual realiza o cálculo da média final do aluno em uma disciplina, imprimindo se foi aprovado ou não, levando em consideração para o cálculo a quantidade de presenças, nota dos exercícios, nota da prova e nota do trabalho.  
