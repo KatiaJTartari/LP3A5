@@ -6,6 +6,7 @@
 Desenvolvimento de uma pequena aplicação em **Java** com conceitos básicos de orientação a objetos, no qual realiza o cálculo da média final do aluno em uma disciplina, imprimindo se foi aprovado ou não, levando em consideração para o cálculo a quantidade de presenças, nota dos exercícios, nota da prova e nota do trabalho. Resultado da execução desse código pelo console do Eclipse IDE:  
 ![image](https://user-images.githubusercontent.com/70042571/164044647-73c8afe6-c0c6-4c2a-bcc6-5c38e2a77edf.png) 
 
+
 ## LP3A5_Aula02
 Exemplos de Threads em Java que foram apresentados em aula. Resultados das execuções desses códigos pelo console do Eclipse IDE:  
 
@@ -24,8 +25,11 @@ Exemplos de Threads em Java que foram apresentados em aula. Resultados das execu
 **ContadoresThread:**  
 ![image](https://user-images.githubusercontent.com/70042571/164100278-e69ebb80-25d6-4c5f-ba79-c2d4e3403b9a.png)
 
+
 ## LP3A5_Aula03
-### br.edu.ifsp.lp3a5.aula03.produtorConsumidor1
-**Exercício - Problema do Produtor e Consumidor (Versão 1)**   
-O programa cria um objeto Buffer, um Produtor, um Consumidor e lança o produtor e consumidor. Ocorre a sincronização de Threads a baixo nível, nos métodos put() e get() do Buffer, também são usados os métodos wait() e notifyAll().
+
+**Exercício produtorConsumidor1 - Problema do Produtor e Consumidor (Versão 1)**   
+O programa cria um objeto Buffer, um Produtor, um Consumidor e lança o produtor e consumidor. Ocorre a sincronização de Threads a baixo nível, nos métodos put() e get() do Buffer, também são usados os métodos wait() e notifyAll(). Resultado da execução desse código pelo console do Eclipse IDE:  
+![image](https://user-images.githubusercontent.com/70042571/164563705-e077d27b-6b0a-4f33-8d94-200b074db66b.png)
+
 
