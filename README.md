@@ -25,5 +25,7 @@ Exemplos de Threads em Java que foram apresentados em aula. Resultados das execu
 ![image](https://user-images.githubusercontent.com/70042571/164100278-e69ebb80-25d6-4c5f-ba79-c2d4e3403b9a.png)
 
 ## LP3A5_Aula03
-
+### br.edu.ifsp.lp3a5.aula03.produtorConsumidor1
+**Exercício - Problema do Produtor e Consumidor (Versão 1)**   
+O programa cria um objeto Buffer, um Produtor, um Consumidor e lança o produtor e consumidor. Ocorre a sincronização de Threads a baixo nível, nos métodos put() e get() do Buffer, também são usados os métodos wait() e notifyAll().
 
