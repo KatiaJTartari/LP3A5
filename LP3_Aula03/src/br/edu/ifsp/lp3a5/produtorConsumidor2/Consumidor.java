@@ -1,6 +1,6 @@
 package br.edu.ifsp.lp3a5.produtorConsumidor2;
 
-// Classe Consumidor: o objeto encadeado que est· consumindo entradas da fila
+// Classe Consumidor: o objeto encadeado que est√° consumindo entradas da fila
 public class Consumidor implements Runnable {
 	Fila f;
 
@@ -11,7 +11,7 @@ public class Consumidor implements Runnable {
 
 	public void run() {
 		for (int i = 0; i < 10; i++)
-			// Consumidor obtÈm/remove itens
+			// Consumidor retira itens
 			f.get();
 	}
 }
