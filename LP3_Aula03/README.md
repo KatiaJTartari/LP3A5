@@ -28,6 +28,8 @@ Programa implementa três soluções diferentes para o Problema dos Filósofos J
 ![image](https://user-images.githubusercontent.com/70042571/164799399-a3f647b5-002c-468a-acb0-909a52757715.png)
 ![image](https://user-images.githubusercontent.com/70042571/164799488-efa07a6b-474c-4cd6-a7fb-2dda81b9be10.png)  
 
+![image](https://user-images.githubusercontent.com/70042571/164800415-5bbc84cb-a320-4c7d-9435-3cb5374ea834.png)  
+
 
 ### Referências para as três soluções do Problema do Produtor e Consumidor
 * w3big.com. Exemplos Java - produtor / problema do consumidor. Disponível em: <http://www.w3big.com/pt/html/thread-procon.html>. Acesso em: 15 abr. 2022.  
