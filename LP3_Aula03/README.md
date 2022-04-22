@@ -19,11 +19,13 @@ Programa faz uso de Threads em Java; possui uma **lista LinkedList -** para arma
 **Implementação do prof. Diego Caldas - Problema dos Filósofos Jantando**  
 Programa implementa três soluções diferentes para o Problema dos Filósofos Jantando: testeDeadlock, testeStarved e testeOK; incluindo a classe AppTest que realiza teste através do framework JUnit, também faz uso de interfaces, classe abstrata e enum. Resultado das execuções do programa:  
 
-![image](https://user-images.githubusercontent.com/70042571/164797039-03942e26-8347-43fe-941b-1f8238cc40dc.png)  ![image](https://user-images.githubusercontent.com/70042571/164798268-3ff38faa-beea-4618-b873-309f483fab05.png)  ![image](https://user-images.githubusercontent.com/70042571/164798627-f682d216-b8bb-4a88-8d0c-18acc31dad8c.png)  
+![image](https://user-images.githubusercontent.com/70042571/164797039-03942e26-8347-43fe-941b-1f8238cc40dc.png)  
+![image](https://user-images.githubusercontent.com/70042571/164798268-3ff38faa-beea-4618-b873-309f483fab05.png)  
+![image](https://user-images.githubusercontent.com/70042571/164798627-f682d216-b8bb-4a88-8d0c-18acc31dad8c.png)  
 ![image](https://user-images.githubusercontent.com/70042571/164799036-13dd38a3-2d66-43bb-bb02-d3337382879b.png)
 ![image](https://user-images.githubusercontent.com/70042571/164799116-4cfbd3e4-7cc9-4722-9e9e-74e6493e0411.png)
-
-
+![image](https://user-images.githubusercontent.com/70042571/164799399-a3f647b5-002c-468a-acb0-909a52757715.png)
+![image](https://user-images.githubusercontent.com/70042571/164799488-efa07a6b-474c-4cd6-a7fb-2dda81b9be10.png)
 
 
 ### Referências para as três soluções do Problema do Produtor e Consumidor
