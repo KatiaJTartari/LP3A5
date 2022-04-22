@@ -5,12 +5,13 @@ O programa cria um objeto Buffer, um Produtor, um Consumidor e lança o produtor
 ![image](https://user-images.githubusercontent.com/70042571/164563705-e077d27b-6b0a-4f33-8d94-200b074db66b.png)
 
 ### produtorConsumidor2
-**Exercício - Problema do Produtor e Consumidor (Versão 2)** 
+**Exercício - Problema do Produtor e Consumidor (Versão 2)**  
 Programa utiliza semáforos em Java; chamadas são sincronizadas para put() e get(), sendo a sequência das chamadas put() e get() tratada por dois semáforos: semProd e semCon. Resultado da execução do programa pelo console do Eclipse IDE:  
 ![image](https://user-images.githubusercontent.com/70042571/164586855-922fdce4-3f45-408a-b2a5-08fa833be68a.png)
 
 ### produtorConsumidor3
-**Exercício - Problema do Produtor e Consumidor (Versão 3)**
+**Exercício - Problema do Produtor e Consumidor (Versão 3)**  
+Programa faz uso de Threads em Java; possui uma ***lista LinkedList -*** para armazenar uma lista de trabalhos na fila; ***tamanho variável -*** para verificar se a lista está cheia ou não; ***controle de inserção e remoção da lista -*** para não inserir na lista se estiver cheia ou remover se estiver vazia.
     
 
 
