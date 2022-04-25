@@ -17,3 +17,5 @@
 ![image](https://user-images.githubusercontent.com/70042571/165008836-c69babf6-536c-43a7-a4e4-7d13648e0efa.png)
 
 
+### Referência
+https://www.devmedia.com.br/trabalhando-com-completablefuture-no-java/32854
