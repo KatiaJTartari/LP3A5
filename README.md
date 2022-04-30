@@ -7,8 +7,8 @@
 * ***Exercício Produtor e Consumidor***   
   LP3_Aula03 --> (src/br/edu/ifsp/lp3a5) --> (produtorConsumidor1), (produtorConsumidor2) e (produtorConsumidor3)
   
-* ***Exercício Streams***
-
+* ***Exercício Streams***  
+  LP3_Aula06 -->
 
 
 
