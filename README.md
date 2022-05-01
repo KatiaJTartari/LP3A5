@@ -4,7 +4,7 @@
 ---------------------------------------------  
 
   
-### Atividades Solicitadas para o Portifólio:
+### Atividades solicitadas para o Portifólio:
 
 * **Exercício Produtor e Consumidor**   
   LP3_Aula03 --> (src/br/edu/ifsp/lp3a5) --> (produtorConsumidor1), (produtorConsumidor2) e (produtorConsumidor3)
