@@ -1,10 +1,15 @@
 ## LP3A5_Aula06
 
 ***Exemplos Streams API e Functional Interfaces***  
+
 **Criação de Streams com diferentes métodos -** Collections.stream(), Collections.parallelStream(), Arrays.stream(), Stream.of(), IntStream.range(), Stream.iterate(), Files.lines(), Files.list(). **Interfaces Funcionais -** BiConsumer, Function, Predicate, Supplier, Consumer. **Operações intermediárias -** .map(), .peek(), .limit(), .filter(). **Operações terminais -** .forEach(), .reduce(), .collect(). **Outras funções/métodos -** .put(), .andThen(), .length(), .startsWith(), .generate(), .groupingBy().  
 Resultado da execução desses exemplos pelo console do Eclipse IDE:
 
 ### exemplosStreams
+![image](https://user-images.githubusercontent.com/70042571/167044480-8ab9fcb5-5c80-4b3a-8781-90812ee76d1b.png) 
+![image](https://user-images.githubusercontent.com/70042571/167044558-504a1b0a-77d5-4494-a415-77b38a7d872c.png)
+
+
 
 ### exemplosInterfacesFuncionais
 
