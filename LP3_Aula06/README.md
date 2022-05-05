@@ -1,9 +1,7 @@
 ## LP3A5_Aula06
-**Exemplos Streams API e Functional Interfaces:** 
-* Criação de Streams com diferentes métodos - Collections.stream(), Collections.parallelStream(), Arrays.stream(), Stream.of(), IntStream.range(), Stream.iterate(), Files.lines() e Files.list().
-* Interfaces Funcionais - BiConsumer, Function, Predicate, Supplier e Consumer. 
-* Operações intermediárias: .map(), .peek(), .limit(), .filter(). 
-* Operações terminais: .forEach(), .reduce(), .collect(). 
+
+***Exemplos Streams API e Functional Interfaces***  
+**Criação de Streams com diferentes métodos -** Collections.stream(), Collections.parallelStream(), Arrays.stream(), Stream.of(), IntStream.range(), Stream.iterate(), Files.lines() e Files.list(). **Interfaces Funcionais -** BiConsumer, Function, Predicate, Supplier e Consumer. **Operações intermediárias -** .map(), .peek(), .limit(), .filter(). **Operações terminais -** .forEach(), .reduce(), .collect(). 
 
 ### exemplosStreams
 
