@@ -3,7 +3,7 @@ Streams API e Functional Interfaces
 
 
 ### exemplosInterfacesFuncionais
-Exemplos com algumas interfaces funcionais: BiConsumer, Function, Predicate, Supplier e Consumer. Resultado da execução desses exemplos pelo console do Eclipse IDE:  
+Exemplos com interfaces funcionais: BiConsumer, Function, Predicate, Supplier e Consumer. Resultado da execução desses exemplos pelo console do Eclipse IDE:  
 
 ![image](https://user-images.githubusercontent.com/70042571/167018644-b37149fd-f025-4514-b61d-c4c16b37668a.png)  
 
@@ -15,7 +15,7 @@ Exemplos com algumas interfaces funcionais: BiConsumer, Function, Predicate, Sup
 
 
 ### exemplosStreams
-Exemplos diversos criando streams com métodos diferentes e operações intermediárias e terminais. 
+Exemplos de criação de streams com diferentes métodos, operações intermediárias e terminais: . 
 
 
 ### exerciciosStreamsAPI
