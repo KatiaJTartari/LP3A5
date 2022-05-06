@@ -10,7 +10,7 @@
   LP3_Aula03 --> (src/br/edu/ifsp/lp3a5) --> (produtorConsumidor1), (produtorConsumidor2) e (produtorConsumidor3)
   
 * **Exercício Streams API**  
-  LP3_Aula06 --> (src/br/edu/ifsp/lp3a5) --> 
+  LP3_Aula06 --> (src/br/edu/ifsp/lp3a5) --> (exerciciosStreamsAPI) --> 
 
 
 
