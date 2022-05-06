@@ -6,7 +6,10 @@ Resultado da execução desses exemplos pelo console do Eclipse IDE:
 
 ***exerciciosStreamsAPI***  
 
-![image](https://user-images.githubusercontent.com/70042571/167054994-a62b57a9-c493-4da1-99fb-39086d035eb9.png)
+![image](https://user-images.githubusercontent.com/70042571/167054994-a62b57a9-c493-4da1-99fb-39086d035eb9.png)  
+
+![image](https://user-images.githubusercontent.com/70042571/167055297-406dab42-3824-4d61-8e0b-4394fb561840.png)
+
 
 
 ### Exemplos Streams API e Functional Interfaces  
