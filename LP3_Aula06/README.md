@@ -1,14 +1,14 @@
 ## LP3A5_Aula06
 
 ### Exercícios Streams API
-**Implementação com três exemplos de métodos não vistos em aula -**  **Operações intermediárias -** .distinct(), .sorted(), .sorted(Comparator),
+**Implementação com três exemplos de métodos não vistos em aula:** **Operações Intermediárias -** .distinct(), .sorted(), .sorted(Comparator),
 Resultado da execução desses exemplos pelo console do Eclipse IDE:
 
 ***exerciciosStreamsAPI***
 
 ### Exemplos Streams API e Functional Interfaces  
 
-**Criação de Streams com diferentes métodos -** Collections.stream(), Collections.parallelStream(), Arrays.stream(), Stream.of(), IntStream.range(), Stream.iterate(), Files.lines(), Files.list(). **Interfaces Funcionais -** BiConsumer, Function, Predicate, Supplier, Consumer. **Operações intermediárias -** .map(), .peek(), .limit(), .filter(). **Operações terminais -** .forEach(), .reduce(), .collect(). **Outras funções/métodos -** .put(), .andThen(), .length(), .startsWith(), .generate(), .groupingBy(), .concat().  
+**Criação de Streams com diferentes métodos -** Collections.stream(), Collections.parallelStream(), Arrays.stream(), Stream.of(), IntStream.range(), Stream.iterate(), Files.lines(), Files.list(). **Interfaces Funcionais -** BiConsumer, Function, Predicate, Supplier, Consumer. **Operações Intermediárias -** .map(), .peek(), .limit(), .filter(). **Operações Terminais -** .forEach(), .reduce(), .collect(). **Outras funções/métodos -** .put(), .andThen(), .length(), .startsWith(), .generate(), .groupingBy(), .concat().  
 Resultado da execução desses exemplos pelo console do Eclipse IDE:
 
 ***exemplosStreams***
