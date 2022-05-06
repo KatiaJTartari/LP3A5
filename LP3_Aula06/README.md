@@ -14,7 +14,9 @@ Resultado da execução desses exemplos pelo console do Eclipse IDE:
 
 ![image](https://user-images.githubusercontent.com/70042571/167048767-7e32927b-4375-4768-922e-6932ecda2154.png)  
 
-![image](https://user-images.githubusercontent.com/70042571/167049534-2a9370c5-0389-47b7-bace-ba171ed82da0.png)
+![image](https://user-images.githubusercontent.com/70042571/167049534-2a9370c5-0389-47b7-bace-ba171ed82da0.png)  
+
+![image](https://user-images.githubusercontent.com/70042571/167052137-abdf27c7-4995-4eac-8a6e-5036b445908a.png)
 
 
 ### exemplosInterfacesFuncionais
