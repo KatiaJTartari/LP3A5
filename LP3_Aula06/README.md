@@ -2,7 +2,7 @@
 
 ***Exemplos Streams API e Functional Interfaces***  
 
-**Criação de Streams com diferentes métodos -** Collections.stream(), Collections.parallelStream(), Arrays.stream(), Stream.of(), IntStream.range(), Stream.iterate(), Files.lines(), Files.list(). **Interfaces Funcionais -** BiConsumer, Function, Predicate, Supplier, Consumer. **Operações intermediárias -** .map(), .peek(), .limit(), .filter(). **Operações terminais -** .forEach(), .reduce(), .collect(). **Outras funções/métodos -** .put(), .andThen(), .length(), .startsWith(), .generate(), .groupingBy().  
+**Criação de Streams com diferentes métodos -** Collections.stream(), Collections.parallelStream(), Arrays.stream(), Stream.of(), IntStream.range(), Stream.iterate(), Files.lines(), Files.list(). **Interfaces Funcionais -** BiConsumer, Function, Predicate, Supplier, Consumer. **Operações intermediárias -** .map(), .peek(), .limit(), .filter(). **Operações terminais -** .forEach(), .reduce(), .collect(). **Outras funções/métodos -** .put(), .andThen(), .length(), .startsWith(), .generate(), .groupingBy(), .concat().  
 Resultado da execução desses exemplos pelo console do Eclipse IDE:
 
 ### exemplosStreams
