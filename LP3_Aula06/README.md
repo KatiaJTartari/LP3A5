@@ -9,9 +9,9 @@ Resultado da execução desses exemplos pelo console do Eclipse IDE:
 ![image](https://user-images.githubusercontent.com/70042571/167044480-8ab9fcb5-5c80-4b3a-8781-90812ee76d1b.png) 
 ![image](https://user-images.githubusercontent.com/70042571/167044558-504a1b0a-77d5-4494-a415-77b38a7d872c.png) 
 
-![image](https://user-images.githubusercontent.com/70042571/167048767-7e32927b-4375-4768-922e-6932ecda2154.png)
-  
+![image](https://user-images.githubusercontent.com/70042571/167048767-7e32927b-4375-4768-922e-6932ecda2154.png)  
 
+![image](https://user-images.githubusercontent.com/70042571/167049534-2a9370c5-0389-47b7-bace-ba171ed82da0.png)
 
 
 ### exemplosInterfacesFuncionais
