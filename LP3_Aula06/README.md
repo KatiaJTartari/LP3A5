@@ -42,3 +42,5 @@ Resultado da execução desses exemplos pelo console do Eclipse IDE:
 
 ![image](https://user-images.githubusercontent.com/70042571/167019970-dee7c118-3ec8-4b33-83c1-42aec59f1304.png)
 
+#### Referência Exercicio_Exemplo3
+https://howtodoinjava.com/java8/stream-flatmap-example/
