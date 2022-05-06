@@ -1,6 +1,10 @@
 ## LP3A5_Aula06
 
-### exerciciosStreamsAPI
+### Exercícios Streams API
+Implementação com três exemplos de métodos não vistos em aula
+Resultado da execução desses exemplos pelo console do Eclipse IDE:
+
+***exerciciosStreamsAPI***
 
 ### Exemplos Streams API e Functional Interfaces  
 
