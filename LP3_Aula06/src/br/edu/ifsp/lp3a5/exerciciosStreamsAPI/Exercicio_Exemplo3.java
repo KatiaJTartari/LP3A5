@@ -8,7 +8,7 @@ public class Exercicio_Exemplo3 {
 
 	public static void main(String[] args) {
 
-		System.out.println("\tMétodo Stream.flatMap() e Collectors.toList()");
+		System.out.println("\tMétodos .flatMap() e Collectors.toList()");
 
 		/*
 		 * Função Stream.flatMap() obtém um único List contendo todos os elementos de
