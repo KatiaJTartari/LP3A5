@@ -8,8 +8,10 @@ public class Exercicio_Exemplo3 {
 
 	public static void main(String[] args) {
 
+		System.out.println("\tMÃ©todo Stream.flatMap() e Collectors.toList()");
+
 		/*
-		 * Função Stream.flatMap() obtém um único List contendo todos os elementos de
+		 * FunÃ§Ã£o Stream.flatMap() obtÃ©m um Ãºnico List contendo todos os elementos de
 		 * uma lista de listas.
 		 */
 		List<Integer> lista1 = Arrays.asList(1, 2, 3, 4, 5);
@@ -19,12 +21,14 @@ public class Exercicio_Exemplo3 {
 		// Converte List<List<Integer>> para List<Integer>
 		List<List<Integer>> listaDeListas = Arrays.asList(lista1, lista2, lista3);
 
-		List<Integer> unicoListNumeros = listaDeListas.stream().flatMap(x -> x.stream()).collect(Collectors.toList());
+		List<Integer> unicoListNumeros = listaDeListas.stream().flatMap(x -> x.stream())
+				.collect(Collectors.toList());
+		        // Collectors.toList() - transforma stream em List.
 
-		System.out.println("\tMétodo Stream.flatMap()\n\nMescla listas em uma única lista:\n" + unicoListNumeros);
+		System.out.println("\nMescla listas em uma Ãºnica lista:\n" + unicoListNumeros);
 
 		/*
-		 * Função Stream.flatMap() obtém um único List contendo todos os elementos de um
+		 * FunÃ§Ã£o Stream.flatMap() obtÃ©m um Ãºnico List contendo todos os elementos de um
 		 * array de arrays.
 		 */
 		String[][] arrayDeArrays = new String[][] { { "a", "b", "c", "d" }, { "e", "f", "g", "h" },
@@ -33,7 +37,7 @@ public class Exercicio_Exemplo3 {
 		List<String> unicoListChars = Arrays.stream(arrayDeArrays).flatMap(x -> Arrays.stream(x))
 				.collect(Collectors.toList());
 
-		System.out.println("\nMescla arrays em uma única lista:\n" + unicoListChars);
+		System.out.println("\nMescla arrays em uma Ãºnica lista:\n" + unicoListChars);
 
 	}
 
