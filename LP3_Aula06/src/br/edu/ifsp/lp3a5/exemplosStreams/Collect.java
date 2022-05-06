@@ -17,6 +17,8 @@ public class Collect {
 				.collect(Collectors.groupingBy(nome -> nome.length()));
 
 		System.out.println(mapColetado);
+		
+		System.out.println();
 
 		// A chave do map eh do tipo que é retornado no lambda do groupingBy
 		Map<Boolean, List<String>> mapColetado2 = Stream.of("Ana", "Beatriz", "Clara", "Diana", "Eliane")
