@@ -1,7 +1,7 @@
 ## LP3A5_Aula06
 
 ### Exercícios Streams API
-**Implementação com três exemplos de métodos não vistos em aula:** **Operações Intermediárias -** .distinct(), .sorted(), .sorted(Comparator),.  **Operações Terminais -** .anyMatch(), .allMatch(), .noneMatch(). **Outras funções/métodos -** .reverseOrder().  
+**Implementação com três exemplos de métodos não vistos em aula:** **Operações Intermediárias -** .distinct(), .sorted(), .sorted(Comparator), .flatMap(). **Operações Terminais -** .anyMatch(), .allMatch(), .noneMatch(). **Outras funções/métodos -** .reverseOrder().  
 Resultado da execução desses exemplos pelo console do Eclipse IDE:
 
 ***exerciciosStreamsAPI***  
