@@ -1,7 +1,7 @@
 ## LP3A5_Aula06
 
 ### Exercícios Streams API
-Implementação com três exemplos de métodos não vistos em aula
+**Implementação com três exemplos de métodos não vistos em aula -**  **Operações intermediárias -** .distinct(), .sorted(), .sorted(Comparator),
 Resultado da execução desses exemplos pelo console do Eclipse IDE:
 
 ***exerciciosStreamsAPI***
