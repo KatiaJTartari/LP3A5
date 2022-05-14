@@ -32,6 +32,7 @@ Resultado da execução desses exemplos pelo console do Eclipse IDE:
 
 #### Referências ExceptionDivisao e OptionalExemploBasico
 
-https://www.devmedia.com.br/trabalhando-com-excecoes-em-java/27601
+https://www.devmedia.com.br/trabalhando-com-excecoes-em-java/27601  
+
 http://www.mauda.com.br/?p=1383  
 
