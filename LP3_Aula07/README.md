@@ -25,6 +25,8 @@ Resultado da execução desses exemplos pelo console do Eclipse IDE:
 **Exemplo de Exception** e **Exemplo de Optional com diferentes métodos -** static Optional.of(), .get(), static Optional.empty(), Optional.ofNullable().  
 Resultado da execução desses exemplos pelo console do Eclipse IDE:  
 
+![image](https://user-images.githubusercontent.com/70042571/168407270-dc79a48b-5928-496f-9e0c-0b565d477d5a.png)
+
 ![image](https://user-images.githubusercontent.com/70042571/168407092-e003de11-6e2f-43e6-a596-ee5daf15057c.png)
 
 
