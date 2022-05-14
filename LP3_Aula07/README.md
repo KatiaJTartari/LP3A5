@@ -2,9 +2,10 @@
 
 ### Exemplos Optional com diferentes métodos e Exception
 
-***exemplosAula***  
+### ***exemplosAula***  
 **Exemplo de Exception (ExemploDivisaoPorZero) -** Author professor Diego Caldas e **Exemplos de Optional com diferentes métodos -** .ofNullable(), .ifPresent(), .orElseGet(), .orElseThrow(), .isPresent(), .get(), .filter().  
-Resultado da execução desses exemplos pelo console do Eclipse IDE:  
+Resultado da execução desses exemplos pelo console do Eclipse IDE:
+
 ![image](https://user-images.githubusercontent.com/70042571/168406540-2efdfcf4-ff79-4201-b345-b30b92d0af99.png)
 ![image](https://user-images.githubusercontent.com/70042571/168406406-3593bb47-0bad-4b92-8ecf-bf2e0db3246b.png)  
 
@@ -18,7 +19,16 @@ Resultado da execução desses exemplos pelo console do Eclipse IDE:
 
 ![image](https://user-images.githubusercontent.com/70042571/168406779-0b1a8e4c-1a3d-431f-b0ca-6df16cfb6868.png)  
 
-![image](https://user-images.githubusercontent.com/70042571/168406796-498e7e33-d3d2-437a-880e-c4b857e569c7.png)
+![image](https://user-images.githubusercontent.com/70042571/168406796-498e7e33-d3d2-437a-880e-c4b857e569c7.png)  
+
+### ***myExamples*** 
+**Exemplo de Exception** e **Exemplo de Optional com diferentes métodos -** static Optional.of(), .get(), static Optional.empty(), Optional.ofNullable().  
+Resultado da execução desses exemplos pelo console do Eclipse IDE:  
+
+![image](https://user-images.githubusercontent.com/70042571/168407092-e003de11-6e2f-43e6-a596-ee5daf15057c.png)
+
+
+
 
 
 
