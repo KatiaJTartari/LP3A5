@@ -12,16 +12,16 @@ public class OptionalExemploBasico {
 		String respostaPreenchida = "Sim";
 		String respostaNula = null;
 
-		System.out.println("Optional Não Vazio:" + linguagem);
-		System.out.println("Optional Não Vazio: Obtem o valor: " + linguagem.get());
+		System.out.println("Optional NÃ£o Vazio: " + linguagem);
+		System.out.println("Optional NÃ£o Vazio: Obtem o valor: " + linguagem.get());
 		System.out.println("Optional Vazio: " + Optional.empty());
 
 		System.out.println(
-				"Chamada do método ofNullable() em Optional Não Vazio: " + Optional.ofNullable(respostaPreenchida));
-		System.out.println("Chamada do método ofNullable() em Optional Vazio: " + Optional.ofNullable(respostaNula));
+				"Chamada do mÃ©todo ofNullable() em Optional NÃ£o Vazio: " + Optional.ofNullable(respostaPreenchida));
+		System.out.println("Chamada do mÃ©todo ofNullable() em Optional Vazio: " + Optional.ofNullable(respostaNula));
 
 		// Ocorre uma java.lang.NullPointerException na linha abaixo
-		System.out.println("Chamada do método of() Optional Não Vazio: " + Optional.of(respostaNula));
+		System.out.println("Chamada do mÃ©todo of() Optional NÃ£o Vazio: " + Optional.of(respostaNula));
 	}
 }
 
