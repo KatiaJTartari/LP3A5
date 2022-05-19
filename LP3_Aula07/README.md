@@ -3,7 +3,7 @@
 ### Exemplos Optional com diferentes métodos e Exception
 
 ### ***exemplosAula***  
-**Exemplo de Exception (ExemploDivisaoPorZero) -** Author professor Diego Caldas e **Exemplos de Optional com diferentes métodos -** .ofNullable(), .ifPresent(), .orElseGet(), .orElseThrow(), .isPresent(), .get(), .filter().  
+**Exemplo de Exception (ExemploDivisaoPorZero) - Author professor Diego Caldas e Exemplos de Optional com diferentes métodos -** .ofNullable(), .ifPresent(), .orElseGet(), .orElseThrow(), .isPresent(), .get(), .filter().  
 Resultado da execução desses exemplos pelo console do Eclipse IDE:
 
 ![image](https://user-images.githubusercontent.com/70042571/168406540-2efdfcf4-ff79-4201-b345-b30b92d0af99.png)
