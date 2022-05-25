@@ -1,4 +1,4 @@
-## LP3A5_Aula03
+## LP3_Aula03
 
 ### produtorConsumidor1
 **Exercício - Problema do Produtor e Consumidor (Versão 1)**   
