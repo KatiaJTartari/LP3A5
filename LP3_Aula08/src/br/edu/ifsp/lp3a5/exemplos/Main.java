@@ -8,7 +8,7 @@ public class Main {
 	public static void main(String[] args) {
 
 		for (int i = 0; i < 100; i++) {
-			System.out.println("\tSystem.out.println(\"eu vou ser um bom aluno\");");
+			System.out.println("\tSystem.out.println(\"Eu vou ser uma boa aluna\");");
 		}
 	}
 
