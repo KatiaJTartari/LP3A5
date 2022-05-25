@@ -1,6 +1,12 @@
 ## LP3_Aula08
 
 ### Exercício Reflection no Java
+Utitiliza-se os métodos - Class.forName(), .getDeclaredMethods(), .getDeclaredFields(), .invoke() e outros.  
+Resultado da execução pelo console do Eclipse IDE:  
+
+***exercicioReflection***
+
+![image](https://user-images.githubusercontent.com/70042571/170385377-d392efda-13f7-4691-8d4a-fe3a451408ac.png)
 
 
 ### Exemplos de Annotations e Reflection no Java 
