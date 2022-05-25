@@ -1,4 +1,4 @@
-## LP3A5_Aula02
+## LP3_Aula02
 Exemplos de Threads em Java que foram apresentados em aula. Resultados das execuções desses códigos pelo console do Eclipse IDE:  
 
 **ThreadPrincipal:**  
