@@ -1,4 +1,4 @@
-## LP3A5_Aula06
+## LP3_Aula06
 
 ### Exercícios Streams API
 **Implementação com três exemplos de métodos não vistos em aula:** **Operações Intermediárias -** .distinct(), .sorted(), .sorted(Comparator), .flatMap(). **Operações Terminais -** .anyMatch(), .allMatch(), .noneMatch(). **Outras funções/métodos -** .reverseOrder(), Collectors.toList(). 
