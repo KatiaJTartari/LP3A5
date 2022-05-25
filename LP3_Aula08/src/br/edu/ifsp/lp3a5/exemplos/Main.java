@@ -17,7 +17,6 @@ public class Main {
 	public String toString() {
 		System.out.println();
 		return "Minha Classe";
-		// return "Classe String toString";
 	}
 
 	@SuppressWarnings("rawtypes")
