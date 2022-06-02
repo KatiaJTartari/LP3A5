@@ -1,7 +1,7 @@
 ## LP3_Aula04
 
 ### future
-**Exemplos de Future em Java:**. exemplo 1 - criando uma Future; exemplo 2 - código sem Future; exemplo 3 - uso de duas Futures. Resultados das execuções pelo console do Eclipse IDE:  
+**Exemplos de Future em Java:** exemplo 1 - criando uma Future; exemplo 2 - código sem Future; exemplo 3 - uso de duas Futures. Resultados das execuções pelo console do Eclipse IDE:  
 
 ![image](https://user-images.githubusercontent.com/70042571/165008370-eacd795c-da6c-406d-b749-3456e787160e.png)  
 
