@@ -1,6 +1,6 @@
 ## LP3_Aula05
 
-Exemplos de pipeline com chamadas de métodos, pipeline matemático e mônada Optional. Resultado da execução pelo console do Eclipse IDE:
+Exemplos de pipeline com chamadas de métodos, pipeline matemático e mônada Optional. Resultados das execuções pelo console do Eclipse IDE:
 
 ![image](https://user-images.githubusercontent.com/70042571/164948659-cf2bc486-b475-4896-8588-b4be59ae5122.png)  
 
