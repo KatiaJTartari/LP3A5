@@ -12,7 +12,7 @@
 * **Exercício Streams API**  
   LP3_Aula06 --> (src/br/edu/ifsp/lp3a5) --> (exerciciosStreamsAPI) 
   
-* **Exemplos criação e lançamento de Exceptions**   
+* **Exemplos Criação e Lançamento de Exceptions**   
   LP3_Aula07 --> (src/br/edu/ifsp/lp3a5) --> (myExamples)   
   
 * **Exercício Reflection**  
