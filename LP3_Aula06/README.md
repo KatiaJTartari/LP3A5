@@ -44,4 +44,5 @@ Resultado da execução desses exemplos pelo console do Eclipse IDE:
   
   
 ### Referência 
+
 HowToDoInJava. Java Stream flatMap(). Disponível em: https://howtodoinjava.com/java8/stream-flatmap-example/. Acesso em: 12 maio 2022.
