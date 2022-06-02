@@ -30,9 +30,9 @@ Resultado da execução desses exemplos pelo console do Eclipse IDE:
 ![image](https://user-images.githubusercontent.com/70042571/169142109-46ff076b-5af6-4c45-b149-41230b5b2e31.png)
 
 
-#### Referências ExceptionDivisao e OptionalExemploBasico
+#### Referências 
 
-https://www.devmedia.com.br/trabalhando-com-excecoes-em-java/27601  
+DEVMEDIA. Trabalhando com Exceções em Java. Disponível em: https://www.devmedia.com.br/trabalhando-com-excecoes-em-java/27601. Acesso em: 19 maio 2022.  
 
-http://www.mauda.com.br/?p=1383  
+Mauda. Classe Optional – Use com moderação! Disponível em: http://www.mauda.com.br/?p=1383. Acesso em: 19 maio 2022.    
 
