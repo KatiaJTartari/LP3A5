@@ -16,6 +16,12 @@ Resultado da execução desses exemplos pelo console do Eclipse IDE:
 
 ***exemplos***    
 
+![image](https://user-images.githubusercontent.com/70042571/171734419-027869d3-8941-4487-b286-489477c39613.png)
+
+![image](https://user-images.githubusercontent.com/70042571/171734604-1cc85b8c-47e4-4a68-b34a-ac85350e638e.png)
+
+![image](https://user-images.githubusercontent.com/70042571/171734683-a6667a91-d0be-43ff-a61c-e93e48ce172f.png)
+
 ![image](https://user-images.githubusercontent.com/70042571/170386135-cc014d30-bce6-49ec-96ac-665960104558.png)
 
 ![image](https://user-images.githubusercontent.com/70042571/170383161-b287256b-3e92-42f2-827d-2c90f76b28b6.png)  
