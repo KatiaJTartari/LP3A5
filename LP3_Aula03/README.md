@@ -27,7 +27,7 @@ Resultado da execução do programa pelo console do Eclipse IDE:
 ### jantarFilosofos, utils e AppTest
 **Author professor Diego Caldas - Problema dos Filósofos Jantando**  
 Programa implementa três soluções diferentes para o Problema dos Filósofos Jantando: testeDeadlock, testeStarved e testeOK; incluindo a classe AppTest que realiza teste através do framework JUnit, também faz uso de interfaces, classe abstrata e enum.  
-Resultado das execuções do programa para cada teste:  
+Resultados das execuções do programa para cada teste:  
 
 ![image](https://user-images.githubusercontent.com/70042571/164797039-03942e26-8347-43fe-941b-1f8238cc40dc.png)  
 
