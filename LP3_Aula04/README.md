@@ -18,4 +18,4 @@
 
 
 ### Referência
-https://www.devmedia.com.br/trabalhando-com-completablefuture-no-java/32854
+DEVMEDIA. TRABALHANDO COM COMPLETABLEFUTURE NO JAVA. Disponível em: https://www.devmedia.com.br/trabalhando-com-completablefuture-no-java/32854. Acesso em: 28 abr. 2022.
