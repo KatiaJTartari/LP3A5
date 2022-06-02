@@ -44,6 +44,6 @@ Programa implementa três soluções diferentes para o Problema dos Filósofos J
 
 
 ### Referências 
-* w3big.com. EXEMPLOS JAVA - PROBLEMA DO PRODUTOR/CONSUMIDOR. Disponível em: <http://www.w3big.com/pt/html/thread-procon.html>. Acesso em: 15 abr. 2022.  
+* w3big.com. Exemplos Java - problema do produtor/consumidor. Disponível em: <http://www.w3big.com/pt/html/thread-procon.html>. Acesso em: 15 abr. 2022.  
 * MIGLANI, Gaurav. SOLUÇÃO PRODUTOR-CONSUMIDOR USANDO SEMÁFOROS EM JAVA | CONJUNTO 2. Acervo Lima. Disponível em: <https://acervolima.com/solucao-produtor-consumidor-usando-semaforos-em-java-conjunto-2/#:~:text=O%20problema%20descreve%20dois%20processos,um%20peda%C3%A7o%20de%20cada%20vez>. Acesso em: 15 abr. 2022.
 * MAHRSEE, Rishabh. SOLUÇÃO PRODUTOR-CONSUMIDOR USANDO THREADS EM JAVA. Acervo Lima. Disponível em: <https://acervolima.com/solucao-produtor-consumidor-usando-threads-em-java/>. Acesso em: 21 abr. 2022.
