@@ -1,5 +1,5 @@
 # LP3A5  
-***Repositório para os Exercícios e Exemplos da disciplina de Linguagem de Programação III***  
+***Repositório para os Exercícios e Exemplos da Disciplina de Linguagem de Programação III***  
 
 ---------------------------------------------  
 
