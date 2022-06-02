@@ -2,7 +2,7 @@
 
 ### Exercícios Streams API
 **Implementação com três exemplos de métodos não vistos em aula:** **Operações Intermediárias -** .distinct(), .sorted(), .sorted(Comparator), .flatMap(). **Operações Terminais -** .anyMatch(), .allMatch(), .noneMatch(). **Outras funções/métodos -** .reverseOrder(), Collectors.toList(). 
-Resultado da execução desses exemplos pelo console do Eclipse IDE:
+Resultados das execuções desses exemplos pelo console do Eclipse IDE:
 
 ***exerciciosStreamsAPI***  
 
@@ -16,7 +16,7 @@ Resultado da execução desses exemplos pelo console do Eclipse IDE:
 ### Exemplos Streams API e Functional Interfaces  
 
 **Criação de Streams com diferentes métodos -** Collections.stream(), Collections.parallelStream(), Arrays.stream(), Stream.of(), IntStream.range(), Stream.iterate(), Files.lines(), Files.list(). **Interfaces Funcionais -** BiConsumer, Function, Predicate, Supplier, Consumer. **Operações Intermediárias -** .map(), .peek(), .limit(), .filter(). **Operações Terminais -** .forEach(), .reduce(), .collect(). **Outras funções/métodos -** .put(), .andThen(), .length(), .startsWith(), .generate(), .groupingBy(), .concat().  
-Resultado da execução desses exemplos pelo console do Eclipse IDE:
+Resultados das execuções desses exemplos pelo console do Eclipse IDE:
 
 ***exemplosStreams***
 
