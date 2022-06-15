@@ -24,7 +24,7 @@
   [README](https://github.com/KatiaJTartari/LP3A5/blob/main/LP3_Aula08/README.md)  
   [Exercício](https://github.com/KatiaJTartari/LP3A5/tree/main/LP3_Aula08/src/br/edu/ifsp/lp3a5/exercicioReflection)  
   
-* ***GildedRose*** **- LP3_Aula09** --> (src/main/) e (src/test/)   
-  [README](https://github.com/KatiaJTartari/LP3A5/tree/main/LP3_Aula09#readme)
-  [Exercício]()
+* ***GildedRose*** **- LP3_Aula09**   
+  [README](https://github.com/KatiaJTartari/LP3A5/tree/main/LP3_Aula09#readme)  
+  [Exercício](https://github.com/KatiaJTartari/LP3A5/tree/main/LP3_Aula09/src)
   
