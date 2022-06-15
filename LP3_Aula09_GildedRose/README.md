@@ -1,9 +1,11 @@
 ## LP3_Aula09
 
 ### Gilded Rose em Java
-Refactoring e Testes Unitários com JUnit. Resultados dos testes:  
+Refactoring e Testes Unitários com JUnit e Coverage. Resultados dos testes:  
 
-![image](https://user-images.githubusercontent.com/70042571/173731727-e2c4c22f-96bd-4995-abeb-148af01c6111.png)  
+![image](https://user-images.githubusercontent.com/70042571/173930761-980f2c4c-3d04-412f-acbb-7fe0a65f0a8d.png)  
+
+![image](https://user-images.githubusercontent.com/70042571/173931420-86a3807e-7af0-4849-8938-9f44a03a0763.png)
 
 #### Referências  
 
