@@ -20,7 +20,7 @@
   [README](https://github.com/KatiaJTartari/LP3A5/tree/main/LP3_Aula07#readme)  
   [Exercício](https://github.com/KatiaJTartari/LP3A5/tree/main/LP3_Aula07/src/br/edu/ifsp/lp3a5/myExamples)
   
-* ***Reflection*** **- LP3_Aula08** 
+* ***Reflection*** **- LP3_Aula08**   
   [README](https://github.com/KatiaJTartari/LP3A5/blob/main/LP3_Aula08/README.md)  
   [Exercício](https://github.com/KatiaJTartari/LP3A5/tree/main/LP3_Aula08/src/br/edu/ifsp/lp3a5/exercicioReflection)  
   
