@@ -1,6 +1,6 @@
 package mainJava;
 
-// Classe GildedRose modificada com a refatoração do código.
+// Classe GildedRose modificada / refactoring
 
 public class GildedRose {
 
