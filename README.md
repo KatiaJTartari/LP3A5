@@ -19,6 +19,6 @@
   **LP3_Aula08** --> (src/br/edu/ifsp/lp3a5) --> (exercicioReflection)   
   
 * **Exercício GildedRose**  
-  **LP3_Aula09_GildedRose** --> (src/mainJava/) e (src/testJava/)   
+  **LP3_Aula09** --> (src/main?) e (src/test/)   
   
   
