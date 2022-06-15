@@ -16,7 +16,7 @@
   [README](https://github.com/KatiaJTartari/LP3A5/tree/main/LP3_Aula06#readme)  
   [Exercício](https://github.com/KatiaJTartari/LP3A5/tree/main/LP3_Aula06/src/br/edu/ifsp/lp3a5/exerciciosStreamsAPI) 
   
-* ***Criação e Lançamento de Exceptions*** **- LP3_Aula07** --> (src/br/edu/ifsp/lp3a5) --> (myExamples)   
+* ***Criação e Lançamento de Exceptions*** **- LP3_Aula07**     
   [README](https://github.com/KatiaJTartari/LP3A5/tree/main/LP3_Aula07#readme)  
   [Exercício](https://github.com/KatiaJTartari/LP3A5/tree/main/LP3_Aula07/src/br/edu/ifsp/lp3a5/myExamples)
   
