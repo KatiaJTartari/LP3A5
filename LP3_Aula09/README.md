@@ -11,6 +11,6 @@ Refactoring e Testes Unitários com JUnit e Coverage. Resultados dos testes:
 
 Emily Bache. GildedRose-Refactoring-Kata in Java. Disponível em: https://github.com/emilybache/GildedRose-Refactoring-Kata. Acesso em: 8 jun. 2022.  
 
-Manning Publications - YouTube. How to start refactoring the Gilded Rose Kata in Java. Disponível em: https://youtu.be/RJdoeUocVUk. Christian Clausen. Acesso em: 10 jun. 2022.  
+Manning Publications - YouTube. How to start refactoring the Gilded Rose Kata in Java. Disponível em: https://youtu.be/RJdoeUocVUk. Christian Clausen. Acesso em: 9 jun. 2022.  
 
-CodelyTV. Exemplos de código para nossos vídeos e cursos de desenvolvimento de software. java-gildedrose-kata. Disponível em: https://github.com/CodelyTV. Acesso em: 10 jun. 2022.    
+CodelyTV. Exemplos de código para nossos vídeos e cursos de desenvolvimento de software. java-gildedrose-kata. Disponível em: https://github.com/CodelyTV. Acesso em: 9 jun. 2022.    
