@@ -3,9 +3,12 @@
 ### Gilded Rose em Java
 Refactoring e Testes Unitários com JUnit e Coverage. Resultados dos testes:  
 
-![image](https://user-images.githubusercontent.com/70042571/173930761-980f2c4c-3d04-412f-acbb-7fe0a65f0a8d.png)  
+![image](https://user-images.githubusercontent.com/70042571/174126278-d6421a31-2a13-425b-ae54-507f41255cf0.png)  
 
-![image](https://user-images.githubusercontent.com/70042571/173931420-86a3807e-7af0-4849-8938-9f44a03a0763.png)
+![image](https://user-images.githubusercontent.com/70042571/174126504-aa4f1b0e-6940-4c47-bf42-ed23c70cfc4d.png)  
+
+
+
 
 #### Referências  
 
