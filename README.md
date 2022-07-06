@@ -3,7 +3,6 @@
 
 ---------------------------------------------  
 
-  
 ### Atividades solicitadas para o Portifólio:
 
 * ***Produtor e Consumidor*** **- LP3_Aula03**    
@@ -28,3 +27,8 @@
   [README](https://github.com/KatiaJTartari/LP3A5/tree/main/LP3_Aula09#readme)  
   [Exercício](https://github.com/KatiaJTartari/LP3A5/tree/main/LP3_Aula09/src)
   
+
+---------------------------------------------
+
+Link do meu [Caderno de Campo](https://ancient-impulse-de2.notion.site/LP3A5-Linguagem-de-Programa-o-III-f4edef688eb14d8aa65de72dbeed037a) no Notion para os registros dos meus aprendizados nessa disciplina.
+
