@@ -12,6 +12,7 @@ Refactoring e Testes Unitários com JUnit e Coverage. Resultados dos testes:
 ***Gilded Rose em Java - Versão 1***  
 Refactoring e Testes Unitários com JUnit e Coverage. Resultados dos testes:  
 
+![image](https://user-images.githubusercontent.com/70042571/178157059-19336456-0cad-4026-b03c-6bd702a56c54.png)
 
 
 
