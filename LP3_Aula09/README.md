@@ -2,7 +2,7 @@
 
 
 ### LP3_Aula09_1
-***Gilded Rose em Java - Versão 1***  
+**Gilded Rose em Java - Versão 1**  
 Refactoring e Testes Unitários com JUnit e Coverage. Resultados dos testes:  
 
 ![image](https://user-images.githubusercontent.com/70042571/178157059-19336456-0cad-4026-b03c-6bd702a56c54.png)
@@ -11,7 +11,7 @@ Refactoring e Testes Unitários com JUnit e Coverage. Resultados dos testes:
 
 
 ### LP3_Aula09_2
-***Gilded Rose em Java - Versão 2***  
+**Gilded Rose em Java - Versão 2**  
 Refactoring e Testes Unitários com JUnit e Coverage - Author professor Diego Caldas. Resultados dos testes:  
 
 ![image](https://user-images.githubusercontent.com/70042571/178157317-6f205d48-9174-4947-b24e-886807e02831.png)
