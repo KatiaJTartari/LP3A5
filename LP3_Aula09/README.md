@@ -21,7 +21,9 @@ Refactoring e Testes Unitários com JUnit e Coverage. Resultados dos testes:
 ***Gilded Rose em Java - Versão 2***  
 Refactoring e Testes Unitários com JUnit e Coverage - Author professor Diego Caldas. Resultados dos testes:  
 
+![image](https://user-images.githubusercontent.com/70042571/178157317-6f205d48-9174-4947-b24e-886807e02831.png)
 
+![image](https://user-images.githubusercontent.com/70042571/178157359-2507dde3-4794-481b-a4c1-12fb0bed458b.png)
 
 
 #### Referências  
