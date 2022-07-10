@@ -14,6 +14,7 @@ Refactoring e Testes Unitários com JUnit e Coverage. Resultados dos testes:
 
 ![image](https://user-images.githubusercontent.com/70042571/178157059-19336456-0cad-4026-b03c-6bd702a56c54.png)
 
+![image](https://user-images.githubusercontent.com/70042571/178157176-f85b32df-c16d-4baf-9bd8-32013b587d72.png)
 
 
 ### LP3_Aula09_2
