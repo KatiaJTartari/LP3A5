@@ -25,7 +25,7 @@
   
 * ***GildedRose*** **- LP3_Aula09**   
   [README](https://github.com/KatiaJTartari/LP3A5/tree/main/LP3_Aula09#readme)  
-  [Exercício](https://github.com/KatiaJTartari/LP3A5/tree/main/LP3_Aula09/src)
+  [Exercício](https://github.com/KatiaJTartari/LP3A5/tree/main/LP3_Aula09/LP3_Aula09_1/src)
   
 
 ---------------------------------------------
